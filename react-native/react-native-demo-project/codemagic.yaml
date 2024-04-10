@@ -39,8 +39,7 @@ workflows:
         publishing:
           email:
             recipients:
-              - user_1@example.com
-              - user_2@example.com
+              - mukundhan@facilio.com
             notify:
               success: true     # To not receive a notification when a build succeeds
               failure: false    # To not receive a notification when a build fails
@@ -98,8 +97,7 @@ workflows:
         publishing:
           email:
             recipients:
-              - user_1@example.com
-              - user_2@example.com
+              - mukundhan@facilio.com
             notify:
               success: true
               failure: false
